@@ -1,7 +1,7 @@
 # A sample repo to create a Course selling website using Next.js, Shadcn, Tailwind, and BraidPay.
 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/your-repo-name)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/braidpay/Code-Sample-Turkish-Course)
 
 A sample repo to create a Course selling website using Next.js, Shadcn, Tailwind, and BraidPay. This template provides a ready-to-use course selling platform with integrated payment processing through BraidPay.
 
@@ -27,8 +27,8 @@ Before you begin, you'll need:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/braidpay/Code-Sample-Turkish-Course
+cd Code-Sample-Turkish-Course
 ```
 
 2. Install dependencies:
